@@ -1,4 +1,4 @@
-_id:id,_labels:label,name,_start:id,_end:id,_type:label,count:int
+id,label,name,start_id,end_id,relation,count
 1994,:emotion_class,工作压力,,,,
 1995,:head,有人给自己压力,,,,
 1996,:head,有人工作累了,,,,
